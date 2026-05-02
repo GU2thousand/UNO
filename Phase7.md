@@ -1,7 +1,0 @@
-﻿-   After a game ends, there should be an option to start a new round.
--   Both **Group Draw** and **Triple Peek** should have four color variants: red, yellow, blue, and green.
--   In the gameplay screen, the text under **"Your Hand"** that explicitly describes which cards the player has should be removed.
--   The **"End Turn"** button should be removed.
--   The card shown in the **Discard Pile** area should be centered within that section, rather than aligned to the right.
--   During a player’s turn, the interface should display the player’s name followed by **"(Your Turn!)"** in red.
--   The **Accept** and **Challenge** buttons should not remain permanently visible in the top-right corner. They should appear only when a player has played a **Wild Draw Four**, and the current user is the affected player.
